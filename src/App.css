@@ -1,0 +1,254 @@
+body{
+  max-width: 1920px;
+  
+}
+.body01 {
+  background-color: #000;
+  font-family: "Roboto";
+  height: 800px;
+}
+
+.header {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  background-color: #000;
+}
+.logo {
+  margin-left: 3.82%;
+  margin-top: 3%;
+}
+.navbar {
+  width: 30%;
+  padding-right: 1%;
+  font-size: 80%;
+  color: #FFFFFF;
+  background-color: #000;
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-evenly;
+}   
+.n01{
+  padding-right: 2%;
+}
+.sp {
+  color: #999999;
+}
+
+div#center {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.zag {
+  position: absolute;
+  top: 30%;
+  color: #FFFFFF;
+  width: 690px;
+}
+
+.zag span {
+  font-size: 600%;
+}
+
+.zag span:first-child {
+  margin-left: 0%;
+  font-size: 50%;
+  text-transform: none;
+  color: #999999;
+}
+
+.zag span:nth-child(2) {
+  display: flex;
+}
+
+.zag span:nth-child(3) {
+  margin-left: 10%;
+}
+
+.nadniz {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.niz1 {
+  padding-right: 25%;
+  font-size: 120%;
+  margin-top: 1.5%;
+  color: #FFFFFF;
+}
+
+.niz2 {
+  font-size: 120%;
+  margin-top: 1%;
+  display: flex;
+  justify-content: flex-start;
+  flex-flow: column wrap;
+  color: #FFFFFF;
+}
+
+.sm {
+  padding-top: 5%;
+  color: #FFFFFF66;
+  font-size: 70%;
+}
+
+.body02 {
+  background-color: white;
+  font-family: "Roboto";
+}
+
+.JMP {
+  padding-left: 10%;
+  color: #E8244F;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 7% 0% 10% 0%;
+}
+
+.tabl01 {
+  margin-left: 4%;
+  height: 629.41px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.zaglavnoedoch {
+  font-weight: 400;
+  padding-left: 25%;
+  display: flex;
+  margin: 0% 0% 20% 0%;
+  font-size: 300%;
+}
+
+.sredinadoch {
+  display: flex;
+  margin: 0% 0% 40% 0%;
+  font-size: 100%;
+}
+.sredinadoch:first-child{
+  margin: 10% 0% 30% 0%;
+}
+.sredinadoch:nth-child(2){
+  margin: 36% 0% 34% 0%;
+}
+
+.strelki {
+  display: flex;
+  flex-direction: column;
+}
+
+.strelkidoch {
+  padding-right: 60px;
+  display: flex;
+  margin: 0% 0% 95% 0%; 
+}
+
+.row01 {
+  margin-left: 10%;
+  display: flex;
+  flex-direction: row;
+}
+.pravo {
+  margin-left: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.row2{
+  display: flex;
+  margin-top: 2%;
+}
+.texty{
+  margin-top: 7%;
+  margin-left: 10%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.secondcont{
+  margin-top: 5%;
+}
+.FR2{
+  margin-right: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 1 auto;
+  margin: 0 3%;
+}
+.fotorow2{
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 0 3%;
+  margin-left: 10%;
+  margin-right: 4.7%;
+}
+.bolsh {
+  font-size: 590%;
+}
+.podkart{
+  width: 290px;
+  font-size: 75%;
+}
+.row3{
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  padding: 0 1%;
+  margin-left: 31%; 
+  width: 65%; 
+}
+.FR3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 1 auto;
+  margin: 0 1%;
+}
+.row4{
+  margin-top: 2%;
+  display: flex;
+  flex-flow: row nowrap;
+  width: auto;
+}
+.dvaposfoto{
+  margin-left: 10%;
+  width: 44%;
+  display: flex;
+  flex-flow: row nowrap;
+}
+.NAPDPF{
+  margin-top: 10%;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+}
+.FR4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 1 auto;
+  margin: 0 1%;
+}
+.krasmet{
+  margin-left: 10%;
+  margin-top: 15%;
+  color: #E8244F;
+}
+.logotipy{
+  margin-top: 7%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.nizhlog{
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
